@@ -5,6 +5,9 @@
 ## Purpose
 Use natural-language questions to understand fictional APAC operations data, identify variances and exceptions, and create an executive-ready summary.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/06bf4acf-f8b8-4ec7-9c79-9b049869a8b4" />
+
+
 **Suggested time:** 10–12 minutes  
 **Required file:** `Synthetic APAC Operations Data.xlsx`
 
