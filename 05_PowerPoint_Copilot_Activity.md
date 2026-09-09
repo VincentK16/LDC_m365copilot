@@ -5,6 +5,9 @@
 ## Purpose
 Turn the fictional weekly APAC operations brief and workbook insights into a concise, leadership-ready presentation.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c12d63bd-2a09-429a-9abf-095054049173" />
+
+
 **Suggested time:** 10–12 minutes  
 **Required files:** `Synthetic Weekly Operations Brief.docx` and `Synthetic APAC Operations Data.xlsx`. A participant’s revised Word brief may be used instead.
 
