@@ -3,6 +3,9 @@
 ## Session goal
 Experience how Microsoft 365 Copilot can help with real everyday work in Teams and Outlook, then use a connected synthetic APAC operations scenario to practise content creation and analysis in Word, Excel, and PowerPoint.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e912e7c6-5ff4-494b-af83-4a71be57dd1d" />
+
+
 > **Responsible use:** For Teams and Outlook, learners should use their own approved work content and complete the activities privately. Choose content that is appropriate to review during a training session. Do not display or share confidential, personal, HR, legal, medical, or otherwise sensitive information with the group.
 
 > **Synthetic training data:** The Word, Excel, and PowerPoint activities use fictional names, figures, events, locations, dates, and operational details. They do not represent Louis Dreyfus Company operations.
