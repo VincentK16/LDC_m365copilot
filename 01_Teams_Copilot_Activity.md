@@ -5,6 +5,9 @@
 ## Purpose
 Use Copilot to catch up on a real conversation, identify what was decided, and understand what needs your attention without manually reviewing the entire discussion.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/15a27984-fd28-4d0c-a7e3-72ee28b457df" />
+
+
 **Suggested time:** 10–12 minutes  
 **Required material:** One of your own recent Teams meeting recaps or transcribed meetings, or a substantial chat or channel discussion.
 
