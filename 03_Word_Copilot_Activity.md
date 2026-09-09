@@ -5,6 +5,9 @@
 ## Purpose
 Transform rough weekly APAC operations notes into a concise, structured one-page brief.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/19d4666a-7354-4fd9-8374-dc3074fd4ccb" />
+
+
 **Suggested time:** 10–12 minutes  
 **Required file:** `Synthetic Weekly Operations Notes.docx`
 
