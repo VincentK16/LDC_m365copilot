@@ -5,6 +5,9 @@
 ## Purpose
 Use Copilot to understand a real email conversation and prepare a clear, audience-appropriate draft response.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/897c1b90-ef26-47ab-b385-689b8902952b" />
+
+
 **Suggested time:** 10–12 minutes  
 **Required material:** One of your own suitable email threads containing several replies, a request, an update, a question, or a decision.
 
